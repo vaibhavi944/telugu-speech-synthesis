@@ -117,16 +117,6 @@ with torch.no_grad():
 - Datasets: 3.3.1
 - Tokenizers: 0.21.0
 
-## Citation
-
-```bibtex
-@misc{speecht5_telugu_charan,
-  title={SpeechT5 Fine-tuned for Telugu Text-to-Speech},
-  author={Rama Charan Pisupati},
-  year={2025},
-  howpublished={\url{https://huggingface.co/your-username/speecht5_finetuned_telugu_charan}}
-}
-```
 
 ## Acknowledgments
 
